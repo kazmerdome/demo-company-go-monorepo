@@ -9,5 +9,6 @@ spec:
   owner: group:data-science-team
   lifecycle: production
   dependsOn:
-    - core-data-science-library
-    - core-product-library
+    # - resource:default/artists-db
+    - resource:core-data-science-library
+    - resource:core-product-library
