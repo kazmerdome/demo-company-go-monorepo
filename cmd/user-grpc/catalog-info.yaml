@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: core-data-science-library
+  name: user-grpc
   annotations:
     github.com/project-slug: kazmerdome/demo-company-go-monorepo
 spec:
-  type: library
-  owner: group:data-science-team
+  type: service
+  owner: group:product-team
   lifecycle: production
