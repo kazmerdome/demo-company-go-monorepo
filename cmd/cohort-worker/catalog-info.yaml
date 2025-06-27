@@ -10,5 +10,5 @@ spec:
   lifecycle: production
   dependsOn:
     # - resource:default/artists-db
-    - resource:core-data-science-library
-    - resource:core-product-library
+    - component:default/core-data-science-library
+    - component:default/core-product-library
