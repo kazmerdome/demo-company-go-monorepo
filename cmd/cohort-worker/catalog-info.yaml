@@ -9,6 +9,7 @@ spec:
   type: service
   owner: group:data-science-team
   lifecycle: production
+  system: go-platform
   dependsOn:
     # - resource:default/artists-db
     - component:default/core-data-science-library

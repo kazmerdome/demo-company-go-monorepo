@@ -8,3 +8,4 @@ spec:
   type: library
   owner: group:product-team
   lifecycle: production
+  system: go-platform

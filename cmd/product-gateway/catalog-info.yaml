@@ -8,3 +8,4 @@ spec:
   type: service
   owner: group:product-team
   lifecycle: production
+  system: go-platform

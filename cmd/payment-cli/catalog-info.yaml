@@ -8,3 +8,4 @@ spec:
   type: tool
   owner: group:monetization-team
   lifecycle: production
+  system: go-platform
