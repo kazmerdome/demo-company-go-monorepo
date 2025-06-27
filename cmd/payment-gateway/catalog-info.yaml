@@ -10,3 +10,6 @@ spec:
   owner: group:monetization-team
   lifecycle: production
   system: go-platform
+  dependsOn:
+    - component:default/core-product-library
+    - component:default/core-monetization-library

@@ -10,3 +10,5 @@ spec:
   owner: group:product-team
   lifecycle: production
   system: go-platform
+  dependsOn:
+    - component:default/core-product-library

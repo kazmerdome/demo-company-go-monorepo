@@ -1,4 +1,4 @@
-# Cohort Worker
+# Cohort Worker Application
 
 cohort-worker is a background worker service responsible for processing user cohorts and generating cohort-based analytics.
 It operates as part of the monorepo ecosystem, relying on core domain libraries to perform data science computations and product-related data enrichment.

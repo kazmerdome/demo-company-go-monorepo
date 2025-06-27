@@ -1,1 +1,1 @@
-# Payment CLI
+# Payment CLI Tool
