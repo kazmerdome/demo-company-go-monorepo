@@ -8,3 +8,6 @@ spec:
   type: service
   owner: group:data-science-team
   lifecycle: production
+  dependsOn:
+    - core-data-science-library
+    - core-product-library
