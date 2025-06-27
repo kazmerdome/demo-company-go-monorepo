@@ -9,4 +9,3 @@ spec:
   owner: group:data-science-team
   lifecycle: production
   system: go-platform
-  
