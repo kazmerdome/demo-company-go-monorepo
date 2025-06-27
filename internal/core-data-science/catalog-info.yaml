@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: core-data-science-library
   annotations:
-    github.com/project-slug: kazmerdome/demo-company-go-monorepo
-    backstage.io/managed-by-location: url:https://github.com/kazmerdome/demo-company-go-monorepo/blob/main/internal/core-data-science/catalog-info.yaml
+    backstage.io/managed-by-location: url:https://github.com/kazmerdome/demo-company-go-monorepo/blob/main/internal/core-data-science/catalog-info.yaml     
 spec:
   type: library
   owner: group:data-science-team
