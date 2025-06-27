@@ -4,6 +4,7 @@ metadata:
   name: cohort-worker
   annotations:
     github.com/project-slug: kazmerdome/demo-company-go-monorepo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: group:data-science-team
