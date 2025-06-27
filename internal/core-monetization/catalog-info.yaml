@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-company-go-monorepo
+  name: core-monetization-library
   annotations:
     github.com/project-slug: kazmerdome/demo-company-go-monorepo
 spec:
-  owner: engineering-team
-  type: other
-  lifecycle: unknown
+  type: library
+  owner: group:monetization-team
+  lifecycle: production

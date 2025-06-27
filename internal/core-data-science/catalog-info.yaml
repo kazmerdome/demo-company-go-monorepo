@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo-company-go-monorepo
+  name: core-data-science-library
   annotations:
     github.com/project-slug: kazmerdome/demo-company-go-monorepo
 spec:
-  owner: engineering-team
-  type: other
-  lifecycle: unknown
+  type: library
+  owner: group:data-science-team
+  lifecycle: production
