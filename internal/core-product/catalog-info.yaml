@@ -4,6 +4,7 @@ metadata:
   name: core-product-library
   annotations:
     github.com/project-slug: kazmerdome/demo-company-go-monorepo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   owner: group:product-team
