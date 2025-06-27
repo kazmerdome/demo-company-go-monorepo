@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: demo-company-go-monorepo
+  annotations:
+    github.com/project-slug: kazmerdome/demo-company-go-monorepo
+spec:
+  owner: team-a
+  type: other
+  lifecycle: unknown
